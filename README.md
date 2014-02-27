@@ -6,7 +6,7 @@ JavaScript based simple calculator with pattern usage
 - No external libaries
 - Pure JavaScript
 
-Paterns User
+Paterns Used
 ============
 1. Module
 2. MVC
